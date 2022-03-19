@@ -75,7 +75,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\FSMFrame\MonoHelper.cs" />
     <Compile Include="Assets\Scripts\FSMFrame\State.cs" />
+    <Compile Include="Assets\Scripts\FSMFrame\StateMachine.cs" />
+    <Compile Include="Assets\Test.cs" />
+    <Compile Include="Assets\UseFSM.cs" />
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>D:/Unity/Unity2017.4.20f2/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
     </Reference>
